@@ -1,0 +1,1047 @@
+2026-02-06 09:59:39,282 - INFO - Fetching exam list from: https://www.mumresults.in/ugnepresults.html
+2026-02-06 09:59:40,818 - INFO - Found 3 table(s) on page
+2026-02-06 09:59:40,818 - INFO - Processing table 1/3
+2026-02-06 09:59:40,820 - INFO - Processing table 2/3
+2026-02-06 09:59:40,822 - INFO - Processing table 3/3
+2026-02-06 09:59:40,823 - INFO - Found 90 exam records across all tables
+2026-02-06 09:59:40,823 - INFO - 
+[1/90] Processing: 2190461 - Semester - III
+2026-02-06 09:59:40,823 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/2190461_Bachelor of Management Studies (E.M.E.) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:41,465 - INFO - Downloaded: 2190461_Bachelor of Management Studies (E.M.E.) ( Semester - III) ( NEP 2020 ).pdf (0.16 MB)
+2026-02-06 09:59:41,466 - INFO - 
+[2/90] Processing: 2190461 - Semester - II
+2026-02-06 09:59:41,466 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/2190461_Bachelor of Management Studies (E.M.E.) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf
+2026-02-06 09:59:41,854 - INFO - Downloaded: 2190461_Bachelor of Management Studies (E.M.E.) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf (0.09 MB)
+2026-02-06 09:59:41,855 - INFO - 
+[3/90] Processing: 3180361 - Semester - I
+2026-02-06 09:59:41,855 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/3180361_Bachelor of Arts (Culinary Arts) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-06 09:59:42,428 - INFO - Downloaded: 3180361_Bachelor of Arts (Culinary Arts) ( Semester - I) ( NEP 2020 ).pdf (0.69 MB)
+2026-02-06 09:59:42,429 - INFO - 
+[4/90] Processing: 4986461 - Semester - I
+2026-02-06 09:59:42,429 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/4986461_Bachelor of Arts(Fashion Designing) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-06 09:59:42,816 - INFO - Downloaded: 4986461_Bachelor of Arts(Fashion Designing) ( Semester - I) ( NEP 2020 ).pdf (0.06 MB)
+2026-02-06 09:59:42,816 - INFO - 
+[5/90] Processing: 3180161 - Semester - II
+2026-02-06 09:59:42,816 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/3180161_Bachelor of Arts ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf
+2026-02-06 09:59:43,909 - INFO - Downloaded: 3180161_Bachelor of Arts ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf (4.85 MB)
+2026-02-06 09:59:43,910 - INFO - 
+[6/90] Processing: 3180361 - Semester - II
+2026-02-06 09:59:43,911 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/3180361_Bachelor of Arts (Culinary Arts) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf
+2026-02-06 09:59:44,300 - INFO - Downloaded: 3180361_Bachelor of Arts (Culinary Arts) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf (0.10 MB)
+2026-02-06 09:59:44,301 - INFO - 
+[7/90] Processing: 3180261 - Semester - III
+2026-02-06 09:59:44,301 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/3180261_ Bachelor of Arts(Film, Television and New Media Production) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:44,691 - INFO - Downloaded: 3180261_ Bachelor of Arts(Film, Television and New Media Production) ( Semester - III) ( NEP 2020 ).pdf (0.31 MB)
+2026-02-06 09:59:44,692 - INFO - 
+[8/90] Processing: 3180361 - Semester - III
+2026-02-06 09:59:44,693 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/3180361 Bachelor of Arts (Culinary Arts) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:46,286 - INFO - Downloaded: 3180361 Bachelor of Arts (Culinary Arts) ( Semester - III) ( NEP 2020 ).pdf (0.57 MB)
+2026-02-06 09:59:46,286 - INFO - 
+[9/90] Processing: 1194661 - Semester - I
+2026-02-06 09:59:46,286 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/1194661 Bachelor of Science(Sports management ) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-06 09:59:46,806 - INFO - Downloaded: 1194661 Bachelor of Science(Sports management ) ( Semester - I) ( NEP 2020 ).pdf (0.06 MB)
+2026-02-06 09:59:46,806 - INFO - 
+[10/90] Processing: 1150561 - Semester - I
+2026-02-06 09:59:46,806 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/1150561 Bachelor of Science(Maritime Hospitality Studies) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-06 09:59:47,724 - INFO - Downloaded: 1150561 Bachelor of Science(Maritime Hospitality Studies) ( Semester - I) ( NEP 2020 ).pdf (0.21 MB)
+2026-02-06 09:59:47,725 - INFO - 
+[11/90] Processing: 1150561 - Semester - II
+2026-02-06 09:59:47,726 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/1150561 Bachelor of Science(Maritime Hospitality Studies) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf
+2026-02-06 09:59:48,194 - INFO - Downloaded: 1150561 Bachelor of Science(Maritime Hospitality Studies) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf (0.10 MB)
+2026-02-06 09:59:48,195 - INFO - 
+[12/90] Processing: 4986461 - Semester - III
+2026-02-06 09:59:48,195 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/4986461  Bachelor of Arts(Fashion Designing) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:48,654 - INFO - Downloaded: 4986461  Bachelor of Arts(Fashion Designing) ( Semester - III) ( NEP 2020 ).pdf (0.10 MB)
+2026-02-06 09:59:48,655 - INFO - 
+[13/90] Processing: 2126661 - Semester - I
+2026-02-06 09:59:48,656 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/2126661 Bachelor of Commerce(Financial Management) ( Semester - I) ( NEP 2020 ) .pdf
+2026-02-06 09:59:49,425 - INFO - Downloaded: 2126661 Bachelor of Commerce(Financial Management) ( Semester - I) ( NEP 2020 ) .pdf (0.34 MB)
+2026-02-06 09:59:49,425 - INFO - 
+[14/90] Processing: 2126661 - Semester - II
+2026-02-06 09:59:49,426 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/2126661  Bachelor of Commerce(Financial Management) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf
+2026-02-06 09:59:49,816 - INFO - Downloaded: 2126661  Bachelor of Commerce(Financial Management) ( Semester - II) ( NEP 2020 ) SUPPLEMENTARY.pdf (0.11 MB)
+2026-02-06 09:59:49,816 - INFO - 
+[15/90] Processing: 1194661 - Semester - III
+2026-02-06 09:59:49,816 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/1194661 Bachelor of Science(Sports management ) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:50,145 - INFO - Downloaded: 1194661 Bachelor of Science(Sports management ) ( Semester - III) ( NEP 2020 ).pdf (0.06 MB)
+2026-02-06 09:59:50,145 - INFO - 
+[16/90] Processing: 1150561 - Semester - III
+2026-02-06 09:59:50,145 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/1150561_ Bachelor of Science(Maritime Hospitality Studies) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:50,643 - INFO - Downloaded: 1150561_ Bachelor of Science(Maritime Hospitality Studies) ( Semester - III) ( NEP 2020 ).pdf (0.21 MB)
+2026-02-06 09:59:50,644 - INFO - 
+[17/90] Processing: 2126661 - Semester - III
+2026-02-06 09:59:50,644 - INFO - Downloading: https://www.mumresults.in/S25/ugnep/2126661_Bachelor of Commerce(Financial Management) ( Semester - III) ( NEP 2020 ).pdf
+2026-02-06 09:59:51,158 - INFO - Downloaded: 2126661_Bachelor of Commerce(Financial Management) ( Semester - III) ( NEP 2020 ).pdf (0.27 MB)
+2026-02-06 09:59:51,158 - INFO - 
+[18/90] Processing: 4986461 - Semester - II
+2026-02-06 09:59:51,158 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/4986461 Bachelor of Arts(Fashion Designing)_Term_2_Grade_card.pdf
+2026-02-06 09:59:51,505 - INFO - Downloaded: 4986461 Bachelor of Arts(Fashion Designing)_Term_2_Grade_card.pdf (0.10 MB)
+2026-02-06 09:59:51,505 - INFO - 
+[19/90] Processing: 2225161 - Semester - I
+2026-02-06 09:59:51,505 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2225161 Bachelor of Management Studies ( Semester - I) ( NEP 2020 ) SUPPLEMENTARY.pdf
+2026-02-06 09:59:52,158 - INFO - Downloaded: 2225161 Bachelor of Management Studies ( Semester - I) ( NEP 2020 ) SUPPLEMENTARY.pdf (0.55 MB)
+2026-02-06 09:59:52,158 - INFO - 
+[20/90] Processing: 1151061 - Semester - I
+2026-02-06 09:59:52,158 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science (Computer Science)_Term_1_Grade_card (1).pdf
+2026-02-06 09:59:53,274 - INFO - Downloaded: Bachelor of Science (Computer Science)_Term_1_Grade_card (1).pdf (1.77 MB)
+2026-02-06 09:59:53,274 - INFO - 
+[21/90] Processing: 4945161 - Semester - II
+2026-02-06 09:59:53,275 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Performing Arts(Music-Hindustani Vocal)_Term_2_Grade_card.pdf
+2026-02-06 09:59:53,685 - INFO - Downloaded: Bachelor of Performing Arts(Music-Hindustani Vocal)_Term_2_Grade_card.pdf (0.09 MB)
+2026-02-06 09:59:53,685 - INFO - 
+[22/90] Processing: 4945361 - Semester - II
+2026-02-06 09:59:53,686 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Performing Arts(Music-Tabla)_Term_2_Grade_card.pdf
+2026-02-06 09:59:54,073 - INFO - Downloaded: Bachelor of Performing Arts(Music-Tabla)_Term_2_Grade_card.pdf (0.06 MB)
+2026-02-06 09:59:54,074 - INFO - 
+[23/90] Processing: 1194661 - Semester - II
+2026-02-06 09:59:54,074 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Updated 1194661 Bachelor of Science(Sports management ) (2nd SEMESTER).pdf
+2026-02-06 09:59:54,354 - INFO - Downloaded: Updated 1194661 Bachelor of Science(Sports management ) (2nd SEMESTER).pdf (0.06 MB)
+2026-02-06 09:59:54,355 - INFO - 
+[24/90] Processing: 1170361 - Semester - II
+2026-02-06 09:59:54,355 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Post Graduate Diploma(Proficiency in Playback singing and Stage Performance)_Term_2_Grade_card.pdf
+2026-02-06 09:59:54,641 - INFO - Downloaded: Post Graduate Diploma(Proficiency in Playback singing and Stage Performance)_Term_2_Grade_card.pdf (0.07 MB)
+2026-02-06 09:59:54,642 - INFO - 
+[25/90] Processing: 4945361 - Semester - IV
+2026-02-06 09:59:54,642 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Performing Arts(Music-Tabla)_Term_4_Grade_card.pdf
+2026-02-06 09:59:54,921 - INFO - Downloaded: Bachelor of Performing Arts(Music-Tabla)_Term_4_Grade_card.pdf (0.06 MB)
+2026-02-06 09:59:54,921 - INFO - 
+[26/90] Processing: 4945161 - Semester - IV
+2026-02-06 09:59:54,921 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Performing Arts(Music-Hindustani Vocal)_Term_4_Grade_card.pdf
+2026-02-06 09:59:55,214 - INFO - Downloaded: Bachelor of Performing Arts(Music-Hindustani Vocal)_Term_4_Grade_card.pdf (0.09 MB)
+2026-02-06 09:59:55,215 - INFO - 
+[27/90] Processing: 3180261 - Semester - I
+2026-02-06 09:59:55,215 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Arts(Film, Television and New Media Production)_Term_1_Grade_card.pdf
+2026-02-06 09:59:55,544 - INFO - Downloaded: Bachelor of Arts(Film, Television and New Media Production)_Term_1_Grade_card.pdf (0.17 MB)
+2026-02-06 09:59:55,545 - INFO - 
+[28/90] Processing: 2126561 - Semester - I
+2026-02-06 09:59:55,545 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Commerce(Management Studies)_Term_1_Grade_card.pdf
+2026-02-06 09:59:56,871 - INFO - Downloaded: Bachelor of Commerce(Management Studies)_Term_1_Grade_card.pdf (4.36 MB)
+2026-02-06 09:59:56,872 - INFO - 
+[29/90] Processing: 2225161 - Semester - II
+2026-02-06 09:59:56,872 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2225161_Bachelor of Management Studies_Term_2_Grade_card.pdf
+2026-02-06 09:59:57,500 - INFO - Downloaded: 2225161_Bachelor of Management Studies_Term_2_Grade_card.pdf (2.57 MB)
+2026-02-06 09:59:57,500 - INFO - 
+[30/90] Processing: 2126261 - Semester - I
+2026-02-06 09:59:57,501 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126261 Bachelor of Commerce (Accounting and Finance) (1st SEMESTER).pdf
+2026-02-06 09:59:58,874 - INFO - Downloaded: 2126261 Bachelor of Commerce (Accounting and Finance) (1st SEMESTER).pdf (9.57 MB)
+2026-02-06 09:59:58,874 - INFO - 
+[31/90] Processing: 1151161 - Semester - I
+2026-02-06 09:59:58,874 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science (Hospitality Studies)_Term_1_Grade_card_ATKT.pdf
+2026-02-06 09:59:59,263 - INFO - Downloaded: Bachelor of Science (Hospitality Studies)_Term_1_Grade_card_ATKT.pdf (1.41 MB)
+2026-02-06 09:59:59,264 - INFO - 
+[32/90] Processing: 2126461 - Semester - I
+2026-02-06 09:59:59,264 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126461_Bachelor of Commerce (Banking and Insurance) (1st SEMESTER)(SUPPLEMENTARY).pdf
+2026-02-06 09:59:59,961 - INFO - Downloaded: 2126461_Bachelor of Commerce (Banking and Insurance) (1st SEMESTER)(SUPPLEMENTARY).pdf (4.54 MB)
+2026-02-06 09:59:59,961 - INFO - 
+[33/90] Processing: 1151261 - Semester - I
+2026-02-06 09:59:59,962 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/1151261_ Bachelor of Science(Biotechnology) ( Semester - I) ( NEP 2020 ) SUPPLEMENTARY_FH25.pdf
+2026-02-06 10:00:00,267 - INFO - Downloaded: 1151261_ Bachelor of Science(Biotechnology) ( Semester - I) ( NEP 2020 ) SUPPLEMENTARY_FH25.pdf (0.54 MB)
+2026-02-06 10:00:00,267 - INFO - 
+[34/90] Processing: 2126161 - Semester - I
+2026-02-06 10:00:00,268 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor_of_Commerce_YearSession_2024-2025-MAY-SEM1_SUPPLEMENTARY_Term_1_Grade_card_file_0_134686_122703.pdf
+2026-02-06 10:00:01,979 - INFO - Downloaded: Bachelor_of_Commerce_YearSession_2024-2025-MAY-SEM1_SUPPLEMENTARY_Term_1_Grade_card_file_0_134686_122703.pdf (13.81 MB)
+2026-02-06 10:00:01,980 - INFO - 
+[35/90] Processing: 3180661 - Semester - I
+2026-02-06 10:00:01,980 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Arts(Multimedia and Mass Communication)_Term_1_Grade_card.pdf
+2026-02-06 10:00:02,371 - INFO - Downloaded: Bachelor of Arts(Multimedia and Mass Communication)_Term_1_Grade_card.pdf (0.71 MB)
+2026-02-06 10:00:02,371 - INFO - 
+[36/90] Processing: 2126761 - Semester - I
+2026-02-06 10:00:02,372 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Supplimentary 2126761 Bachelor of Commerce(Investment Management) (1st SEMESTER).pdf
+2026-02-06 10:00:02,766 - INFO - Downloaded: Supplimentary 2126761 Bachelor of Commerce(Investment Management) (1st SEMESTER).pdf (0.25 MB)
+2026-02-06 10:00:02,767 - INFO - 
+[37/90] Processing: 3180161 - Semester - I
+2026-02-06 10:00:02,767 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/3180161_bachelor of arts sem 1 ATKT.pdf
+2026-02-06 10:00:04,780 - INFO - Downloaded: 3180161_bachelor of arts sem 1 ATKT.pdf (17.77 MB)
+2026-02-06 10:00:04,780 - INFO - 
+[38/90] Processing: 1150161 - Semester - I
+2026-02-06 10:00:04,780 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science_Term_1_Grade_card_supplementary.pdf
+2026-02-06 10:00:05,169 - INFO - Downloaded: Bachelor of Science_Term_1_Grade_card_supplementary.pdf (0.05 MB)
+2026-02-06 10:00:05,170 - INFO - 
+[39/90] Processing: 2126361 - Semester - I
+2026-02-06 10:00:05,170 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/B.Com Financial Market sem 1 supplementary FH25.pdf
+2026-02-06 10:00:05,560 - INFO - Downloaded: B.Com Financial Market sem 1 supplementary FH25.pdf (1.38 MB)
+2026-02-06 10:00:05,560 - INFO - 
+[40/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:05,560 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126661 BCOM Financial Management (sem-1)_supplementary.pdf
+2026-02-06 10:00:05,839 - INFO - Downloaded: 2126661 BCOM Financial Management (sem-1)_supplementary.pdf (0.24 MB)
+2026-02-06 10:00:05,840 - INFO - 
+[41/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:05,840 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Arts (Culinary Arts)_Term_1_Grade_card.pdf
+2026-02-06 10:00:06,228 - INFO - Downloaded: Bachelor of Arts (Culinary Arts)_Term_1_Grade_card.pdf (0.16 MB)
+2026-02-06 10:00:06,229 - INFO - 
+[42/90] Processing: 2190461 - Semester - I
+2026-02-06 10:00:06,229 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Management Studies (E.M.E.)_Term_1_Grade_card.pdf
+2026-02-06 10:00:06,622 - INFO - Downloaded: Bachelor of Management Studies (E.M.E.)_Term_1_Grade_card.pdf (0.10 MB)
+2026-02-06 10:00:06,622 - INFO - 
+[43/90] Processing: 2126861 - Semester - I
+2026-02-06 10:00:06,623 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Commerce( (Transport Management))_Term_1_Grade_card.pdf
+2026-02-06 10:00:07,022 - INFO - Downloaded: Bachelor of Commerce( (Transport Management))_Term_1_Grade_card.pdf (0.05 MB)
+2026-02-06 10:00:07,023 - INFO - 
+[44/90] Processing: 2126461 - Semester - II
+2026-02-06 10:00:07,023 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Commerce (Banking and Insurance)_1.pdf
+2026-02-06 10:00:07,493 - INFO - Downloaded: Bachelor of Commerce (Banking and Insurance)_1.pdf (2.15 MB)
+2026-02-06 10:00:07,494 - INFO - 
+[45/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:07,494 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/1150561_Bachelor of Science(Maritime Hopitality Studies) (1st SEMESTER) SUPPLEMENTARY EXMINATION FIRST HALF 2025.pdf
+2026-02-06 10:00:07,883 - INFO - Downloaded: 1150561_Bachelor of Science(Maritime Hopitality Studies) (1st SEMESTER) SUPPLEMENTARY EXMINATION FIRST HALF 2025.pdf (0.08 MB)
+2026-02-06 10:00:07,883 - INFO - 
+[46/90] Processing: 1150261 - Semester - I
+2026-02-06 10:00:07,884 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science(Information Technology)_Term_1_1.pdf
+2026-02-06 10:00:08,388 - INFO - Downloaded: Bachelor of Science(Information Technology)_Term_1_1.pdf (2.49 MB)
+2026-02-06 10:00:08,388 - INFO - 
+[47/90] Processing: 1151761 - Semester - I
+2026-02-06 10:00:08,389 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/1151761 Bachelor of Science (Data Science)_Term_1_final_supplementary.pdf
+2026-02-06 10:00:08,777 - INFO - Downloaded: 1151761 Bachelor of Science (Data Science)_Term_1_final_supplementary.pdf (1.32 MB)
+2026-02-06 10:00:08,777 - INFO - 
+[48/90] Processing: 2126561 - Semester - II
+2026-02-06 10:00:08,778 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126561_Bachelor of Commerce(Management Studies) ( Semester - II) ( NEP 2020 )-pdf1.pdf
+2026-02-06 10:00:09,291 - INFO - Downloaded: 2126561_Bachelor of Commerce(Management Studies) ( Semester - II) ( NEP 2020 )-pdf1.pdf (2.63 MB)
+2026-02-06 10:00:09,292 - INFO - 
+[49/90] Processing: 2126661 - Semester - II
+2026-02-06 10:00:09,292 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126661 _Bachelor of Commerce(Financial Management)_Term_2_Grade_card.pdf
+2026-02-06 10:00:09,683 - INFO - Downloaded: 2126661 _Bachelor of Commerce(Financial Management)_Term_2_Grade_card.pdf (0.48 MB)
+2026-02-06 10:00:09,683 - INFO - 
+[50/90] Processing: 1151061 - Semester - II
+2026-02-06 10:00:09,684 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science (Computer Science)_Term_2_Grade_card - 1.pdf
+2026-02-06 10:00:10,106 - INFO - Downloaded: Bachelor of Science (Computer Science)_Term_2_Grade_card - 1.pdf (1.73 MB)
+2026-02-06 10:00:10,106 - INFO - 
+[51/90] Processing: 2126361 - Semester - II
+2026-02-06 10:00:10,106 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126361 Bachelor of Commerce(Financial Market) SEM2 FH25.pdf
+2026-02-06 10:00:10,779 - INFO - Downloaded: 2126361 Bachelor of Commerce(Financial Market) SEM2 FH25.pdf (3.43 MB)
+2026-02-06 10:00:10,779 - INFO - 
+[52/90] Processing: 2126161
+								
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 )(UPDATED ON 17/07/2025) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 )(NCC/NSS/DLLE/SPORTS)(UPDATED ON 28/07/2025) 
+(LOT 1)(UPDATED ON 22/08/2025)
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+(LOT 2)(UPDATED ON 16/09/2025)
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+10/07/2025 - Semester - II
+2026-02-06 10:00:10,779 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor_of_Commerce_YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_160859_210253.pdf
+2026-02-06 10:00:12,271 - INFO - Downloaded: Bachelor_of_Commerce_YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_160859_210253.pdf (12.95 MB)
+2026-02-06 10:00:12,272 - INFO - 
+[53/90] Processing: 1151761 - Semester - II
+2026-02-06 10:00:12,272 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/1151761_Bachelor of Science (Data Science) (2nd SEMESTER).pdf
+2026-02-06 10:00:13,253 - INFO - Downloaded: 1151761_Bachelor of Science (Data Science) (2nd SEMESTER).pdf (5.35 MB)
+2026-02-06 10:00:13,253 - INFO - 
+[54/90] Processing: 2126261 - Semester - II
+2026-02-06 10:00:13,253 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor_of_Commerce__Accounting_and_Finance__YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_210551_186439.pdf
+2026-02-06 10:00:14,698 - INFO - Downloaded: Bachelor_of_Commerce__Accounting_and_Finance__YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_210551_186439.pdf (12.46 MB)
+2026-02-06 10:00:14,698 - INFO - 
+[55/90] Processing: 1151161 - Semester - II
+2026-02-06 10:00:14,698 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/(1)Bachelor of Science (Hospitality Studies)_Term_2_Grade_card.pdf
+2026-02-06 10:00:15,148 - INFO - Downloaded: (1)Bachelor of Science (Hospitality Studies)_Term_2_Grade_card.pdf (2.00 MB)
+2026-02-06 10:00:15,148 - INFO - 
+[56/90] Processing: 3180161 - Semester - II
+2026-02-06 10:00:15,149 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor_of_Arts_YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_174032_106496.pdf
+2026-02-06 10:00:16,506 - INFO - Downloaded: Bachelor_of_Arts_YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_174032_106496.pdf (11.39 MB)
+2026-02-06 10:00:16,508 - INFO - 
+[57/90] Processing: 1150161 - Semester - II
+2026-02-06 10:00:16,508 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor_of_Science_YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_155243_27611.pdf
+2026-02-06 10:00:18,019 - INFO - Downloaded: Bachelor_of_Science_YearSession2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card_file_0_155243_27611.pdf (13.04 MB)
+2026-02-06 10:00:18,019 - INFO - 
+[58/90] Processing: 1150261 - Semester - II
+2026-02-06 10:00:18,019 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science(Information Technology)_1.pdf
+2026-02-06 10:00:18,884 - INFO - Downloaded: Bachelor of Science(Information Technology)_1.pdf (6.29 MB)
+2026-02-06 10:00:18,884 - INFO - 
+[59/90] Processing: 1151261 - Semester - II
+2026-02-06 10:00:18,884 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Science(Biotechnology)_Term_2_Grade_card .pdf
+2026-02-06 10:00:19,358 - INFO - Downloaded: Bachelor of Science(Biotechnology)_Term_2_Grade_card .pdf (2.26 MB)
+2026-02-06 10:00:19,358 - INFO - 
+[60/90] Processing: 3180661 - Semester - II
+2026-02-06 10:00:19,358 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/3180661-2_pdf1.pdf
+2026-02-06 10:00:19,902 - INFO - Downloaded: 3180661-2_pdf1.pdf (3.00 MB)
+2026-02-06 10:00:19,903 - INFO - 
+[61/90] Processing: 2126761 - Semester - II
+2026-02-06 10:00:19,903 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126761_Bachelor of Commerce(Investment Management) (2nd SEMESTER).pdf
+2026-02-06 10:00:20,296 - INFO - Downloaded: 2126761_Bachelor of Commerce(Investment Management) (2nd SEMESTER).pdf (0.44 MB)
+2026-02-06 10:00:20,298 - INFO - 
+[62/90] Processing: 3180361 - Semester - II
+2026-02-06 10:00:20,298 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/3180361_Bachelor of Arts (Culinary Arts)_YearSession_2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card (1).pdf
+2026-02-06 10:00:20,692 - INFO - Downloaded: 3180361_Bachelor of Arts (Culinary Arts)_YearSession_2024-2025-MAY-SEM2_REGULAR_Term_2_Grade_card (1).pdf (0.62 MB)
+2026-02-06 10:00:20,692 - INFO - 
+[63/90] Processing: 2190461 - Semester - II
+2026-02-06 10:00:20,692 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2190461_Bachelor of Management Studies (E.M.E.)_Term_2_Grade_card.pdf
+2026-02-06 10:00:21,085 - INFO - Downloaded: 2190461_Bachelor of Management Studies (E.M.E.)_Term_2_Grade_card.pdf (0.19 MB)
+2026-02-06 10:00:21,086 - INFO - 
+[64/90] Processing: 2126861 - Semester - II
+2026-02-06 10:00:21,086 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/2126861 _Bachelor of Commerce( (Transport Management))_Term_2_Grade_card (2).pdf
+2026-02-06 10:00:21,479 - INFO - Downloaded: 2126861 _Bachelor of Commerce( (Transport Management))_Term_2_Grade_card (2).pdf (0.09 MB)
+2026-02-06 10:00:21,479 - INFO - 
+[65/90] Processing: 3180261 - Semester - II
+2026-02-06 10:00:21,480 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/Bachelor of Arts(Film, Television and New Media Production)_Term_2_Grade_card.pdf
+2026-02-06 10:00:21,873 - INFO - Downloaded: Bachelor of Arts(Film, Television and New Media Production)_Term_2_Grade_card.pdf (0.39 MB)
+2026-02-06 10:00:21,873 - INFO - 
+[66/90] Processing: 1150561 - Semester - II
+2026-02-06 10:00:21,874 - INFO - Downloading: https://www.mumresults.in/F25/ugnep/1150561_ Bachelor of Science(Maritime Hopitality Studies)_Term_2_Grade_card Final.pdf
+2026-02-06 10:00:22,268 - INFO - Downloaded: 1150561_ Bachelor of Science(Maritime Hopitality Studies)_Term_2_Grade_card Final.pdf (0.22 MB)
+2026-02-06 10:00:22,269 - INFO - 
+[67/90] Processing: 4986461 - Semester - I
+2026-02-06 10:00:22,269 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/4986461 Bachelor of Arts(Fashion Designing) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-06 10:00:22,662 - INFO - Downloaded: 4986461 Bachelor of Arts(Fashion Designing) ( Semester - I) ( NEP 2020 ).pdf (0.10 MB)
+2026-02-06 10:00:22,662 - INFO - 
+[68/90] Processing: 1194661 - Semester - I
+2026-02-06 10:00:22,662 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/1194661 Bachelor of Science(Sports management ) ( Semester - I) ( NEP 2020 ) SH24.pdf
+2026-02-06 10:00:23,055 - INFO - Downloaded: 1194661 Bachelor of Science(Sports management ) ( Semester - I) ( NEP 2020 ) SH24.pdf (0.06 MB)
+2026-02-06 10:00:23,056 - INFO - 
+[69/90] Processing: 2220161 - Semester - I
+2026-02-06 10:00:23,056 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/2220161 Bachelor of Management Studies and Master of Management Studies (Five years Integrated BMS-MMS degree program) (1st SEMESTER).pdf
+2026-02-06 10:00:23,412 - INFO - Downloaded: 2220161 Bachelor of Management Studies and Master of Management Studies (Five years Integrated BMS-MMS degree program) (1st SEMESTER).pdf (0.07 MB)
+2026-02-06 10:00:23,413 - INFO - 
+[70/90] Processing: 1150661 - Semester - I
+2026-02-06 10:00:23,413 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/1150661 Bachelor of Science(HOME SCIENCE)_Term_1.pdf
+2026-02-06 10:00:24,115 - INFO - Downloaded: 1150661 Bachelor of Science(HOME SCIENCE)_Term_1.pdf (0.40 MB)
+2026-02-06 10:00:24,115 - INFO - 
+[71/90] Processing: 2225161 - Semester - I
+2026-02-06 10:00:24,115 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/FINAL_Bachelor of Management Studies_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card.pdf
+2026-02-06 10:00:25,640 - INFO - Downloaded: FINAL_Bachelor of Management Studies_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card.pdf (2.75 MB)
+2026-02-06 10:00:25,641 - INFO - 
+[72/90] Processing: 2190461 - Semester - I
+2026-02-06 10:00:25,641 - INFO - Downloading: https://www.mumresults.in/S24/Bachelor of Management Studies (E.M.E.)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (1).pdf
+2026-02-06 10:00:25,962 - INFO - Downloaded: Bachelor of Management Studies (E.M.E.)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (1).pdf (0.22 MB)
+2026-02-06 10:00:25,962 - INFO - 
+[73/90] Processing: 1151161 - Semester - I
+2026-02-06 10:00:25,962 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/1151161_Bachelor of Science (Hospitality Studies)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (RE-Updated) 26.04.25.pdf
+2026-02-06 10:00:27,881 - INFO - Downloaded: 1151161_Bachelor of Science (Hospitality Studies)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (RE-Updated) 26.04.25.pdf (8.82 MB)
+2026-02-06 10:00:27,882 - INFO - 
+[74/90] Processing: 2126561 - Semester - I
+2026-02-06 10:00:27,882 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/2126561_Bachelor_of_Commerce_Management_Studies__YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_1_176572_268642.pdf
+2026-02-06 10:00:29,996 - INFO - Downloaded: 2126561_Bachelor_of_Commerce_Management_Studies__YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_1_176572_268642.pdf (14.64 MB)
+2026-02-06 10:00:29,996 - INFO - 
+[75/90] Processing: 2126461 - Semester - I
+2026-02-06 10:00:29,997 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/2126461_Bachelor_of_Commerce__Banking_and_Insurance__YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file.pdf
+2026-02-06 10:00:31,401 - INFO - Downloaded: 2126461_Bachelor_of_Commerce__Banking_and_Insurance__YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file.pdf (11.38 MB)
+2026-02-06 10:00:31,401 - INFO - 
+[76/90] Processing: 1151061 - Semester - I
+2026-02-06 10:00:31,401 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/Bachelor_of_Science__Computer_Science__YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_1_203363_300502.pdf
+2026-02-06 10:00:32,511 - INFO - Downloaded: Bachelor_of_Science__Computer_Science__YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_1_203363_300502.pdf (7.73 MB)
+2026-02-06 10:00:32,511 - INFO - 
+[77/90] Processing: 3180161 - Semester - I
+2026-02-06 10:00:32,511 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/Bachelor_of_Arts_YearSession2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_2_207539_76624.pdf
+2026-02-06 10:00:34,045 - INFO - Downloaded: Bachelor_of_Arts_YearSession2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_2_207539_76624.pdf (13.25 MB)
+2026-02-06 10:00:34,046 - INFO - 
+[78/90] Processing: 1150161 - Semester - I
+2026-02-06 10:00:34,046 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/Bachelor_of_Science_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_0_155370_216374.pdf
+2026-02-06 10:00:35,882 - INFO - Downloaded: Bachelor_of_Science_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card_file_0_155370_216374.pdf (15.39 MB)
+2026-02-06 10:00:35,882 - INFO - 
+[79/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:35,882 - INFO - Downloading: https://www.mumresults.in/S24/Bachelor of Arts (Culinary Arts)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (1).pdf
+2026-02-06 10:00:36,276 - INFO - Downloaded: Bachelor of Arts (Culinary Arts)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (1).pdf (0.74 MB)
+2026-02-06 10:00:36,278 - INFO - 
+[80/90] Processing: 1151261 - Semester - I
+2026-02-06 10:00:36,278 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/11151261BSCBIOTECsem1D24.pdf
+2026-02-06 10:00:36,813 - INFO - Downloaded: 11151261BSCBIOTECsem1D24.pdf (2.25 MB)
+2026-02-06 10:00:36,814 - INFO - 
+[81/90] Processing: 2126361 - Semester - I
+2026-02-06 10:00:36,814 - INFO - Downloading: https://www.mumresults.in/S24/2126361_financial market sem1 final or.pdf
+2026-02-06 10:00:37,425 - INFO - Downloaded: 2126361_financial market sem1 final or.pdf (3.68 MB)
+2026-02-06 10:00:37,425 - INFO - 
+[82/90] Processing: 3180661 - Semester - I
+2026-02-06 10:00:37,425 - INFO - Downloading: https://www.mumresults.in/S24/3180661_Bachelor of Arts(Multimedia and Mass Communication)_DEC2024_REGULAR_Term_1.pdf
+2026-02-06 10:00:38,499 - INFO - Downloaded: 3180661_Bachelor of Arts(Multimedia and Mass Communication)_DEC2024_REGULAR_Term_1.pdf (7.47 MB)
+2026-02-06 10:00:38,499 - INFO - 
+[83/90] Processing: 2126261 - Semester - I
+2026-02-06 10:00:38,499 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/2126261_Bachelor of Commerce (Accounting and Finance)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card.pdf
+2026-02-06 10:00:42,280 - INFO - Downloaded: 2126261_Bachelor of Commerce (Accounting and Finance)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card.pdf (32.81 MB)
+2026-02-06 10:00:42,281 - INFO - 
+[84/90] Processing: 2126161 - Unknown
+2026-02-06 10:00:42,281 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/1_Bachelor of Commerce_YearSession-2024-2025-DECEMBER-DEC2024-REGULAR_Term_1_Grade_card_file_8_301834_243929_removed.pdf
+2026-02-06 10:00:44,038 - INFO - Downloaded: 1_Bachelor of Commerce_YearSession-2024-2025-DECEMBER-DEC2024-REGULAR_Term_1_Grade_card_file_8_301834_243929_removed.pdf (15.56 MB)
+2026-02-06 10:00:44,038 - INFO - 
+[85/90] Processing: 1151761 - Semester - I
+2026-02-06 10:00:44,038 - INFO - Downloading: https://www.mumresults.in/S24/1151761 Bachelor of Science (Data Science)_DEC2024__Term_1.pdf
+2026-02-06 10:00:44,781 - INFO - Downloaded: 1151761 Bachelor of Science (Data Science)_DEC2024__Term_1.pdf (5.12 MB)
+2026-02-06 10:00:44,781 - INFO - 
+[86/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:44,781 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/1150561_Bachelor of Science(Maritime Hopitality Studies) (1st SEMESTER).pdf
+2026-02-06 10:00:45,174 - INFO - Downloaded: 1150561_Bachelor of Science(Maritime Hopitality Studies) (1st SEMESTER).pdf (0.26 MB)
+2026-02-06 10:00:45,175 - INFO - 
+[87/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:45,175 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/2126661 (NEP TERM 1) (SH-24) (UG).pdf
+2026-02-06 10:00:45,567 - INFO - Downloaded: 2126661 (NEP TERM 1) (SH-24) (UG).pdf (0.24 MB)
+2026-02-06 10:00:45,567 - INFO - 
+[88/90] Processing: 3180261 - Semester - I
+2026-02-06 10:00:45,567 - INFO - Downloading: https://www.mumresults.in/S24/ugnep/3180261_Bachelor of Arts (Film, Television and New Media Production) (1st SEMESTER).pdf
+2026-02-06 10:00:45,959 - INFO - Downloaded: 3180261_Bachelor of Arts (Film, Television and New Media Production) (1st SEMESTER).pdf (0.47 MB)
+2026-02-06 10:00:45,959 - INFO - 
+[89/90] Processing: 2126861 - Semester - I
+2026-02-06 10:00:45,959 - INFO - Downloading: https://www.mumresults.in/S24/Bachelor of Commerce (Transport Management)_DEC2024_REGULAR_Term_1.pdf
+2026-02-06 10:00:46,352 - INFO - Downloaded: Bachelor of Commerce (Transport Management)_DEC2024_REGULAR_Term_1.pdf (0.10 MB)
+2026-02-06 10:00:46,352 - INFO - 
+[90/90] Processing: 2126761 - Semester - I
+2026-02-06 10:00:46,353 - INFO - Downloading: https://www.mumresults.in/S24/2126761_Bachelor of Commerce(Investment Management) (1st SEMESTER) Result.pdf
+2026-02-06 10:00:46,744 - INFO - Downloaded: 2126761_Bachelor of Commerce(Investment Management) (1st SEMESTER) Result.pdf (0.30 MB)
+2026-02-06 10:00:51,792 - INFO - Fetching exam list from: https://www.mumresults.in/ugnepresults.html
+2026-02-06 10:00:53,339 - INFO - Found 3 table(s) on page
+2026-02-06 10:00:53,339 - INFO - Processing table 1/3
+2026-02-06 10:00:53,341 - INFO - Processing table 2/3
+2026-02-06 10:00:53,344 - INFO - Processing table 3/3
+2026-02-06 10:00:53,345 - INFO - Found 90 exam records across all tables
+2026-02-06 10:00:53,346 - INFO - 
+[1/90] Processing: 2190461 - Semester - III
+2026-02-06 10:00:53,346 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,346 - INFO - 
+[2/90] Processing: 2190461 - Semester - II
+2026-02-06 10:00:53,346 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,346 - INFO - 
+[3/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:53,346 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,346 - INFO - 
+[4/90] Processing: 4986461 - Semester - I
+2026-02-06 10:00:53,346 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,347 - INFO - 
+[5/90] Processing: 3180161 - Semester - II
+2026-02-06 10:00:53,347 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,347 - INFO - 
+[6/90] Processing: 3180361 - Semester - II
+2026-02-06 10:00:53,347 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,347 - INFO - 
+[7/90] Processing: 3180261 - Semester - III
+2026-02-06 10:00:53,347 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,347 - INFO - 
+[8/90] Processing: 3180361 - Semester - III
+2026-02-06 10:00:53,347 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,347 - INFO - 
+[9/90] Processing: 1194661 - Semester - I
+2026-02-06 10:00:53,347 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,347 - INFO - 
+[10/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[11/90] Processing: 1150561 - Semester - II
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[12/90] Processing: 4986461 - Semester - III
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[13/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[14/90] Processing: 2126661 - Semester - II
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[15/90] Processing: 1194661 - Semester - III
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[16/90] Processing: 1150561 - Semester - III
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[17/90] Processing: 2126661 - Semester - III
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,348 - INFO - 
+[18/90] Processing: 4986461 - Semester - II
+2026-02-06 10:00:53,348 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[19/90] Processing: 2225161 - Semester - I
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[20/90] Processing: 1151061 - Semester - I
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[21/90] Processing: 4945161 - Semester - II
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[22/90] Processing: 4945361 - Semester - II
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[23/90] Processing: 1194661 - Semester - II
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[24/90] Processing: 1170361 - Semester - II
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[25/90] Processing: 4945361 - Semester - IV
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[26/90] Processing: 4945161 - Semester - IV
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,349 - INFO - 
+[27/90] Processing: 3180261 - Semester - I
+2026-02-06 10:00:53,349 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[28/90] Processing: 2126561 - Semester - I
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[29/90] Processing: 2225161 - Semester - II
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[30/90] Processing: 2126261 - Semester - I
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[31/90] Processing: 1151161 - Semester - I
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[32/90] Processing: 2126461 - Semester - I
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[33/90] Processing: 1151261 - Semester - I
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[34/90] Processing: 2126161 - Semester - I
+2026-02-06 10:00:53,350 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,350 - INFO - 
+[35/90] Processing: 3180661 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[36/90] Processing: 2126761 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[37/90] Processing: 3180161 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[38/90] Processing: 1150161 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[39/90] Processing: 2126361 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[40/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[41/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[42/90] Processing: 2190461 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[43/90] Processing: 2126861 - Semester - I
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[44/90] Processing: 2126461 - Semester - II
+2026-02-06 10:00:53,351 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,351 - INFO - 
+[45/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[46/90] Processing: 1150261 - Semester - I
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[47/90] Processing: 1151761 - Semester - I
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[48/90] Processing: 2126561 - Semester - II
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[49/90] Processing: 2126661 - Semester - II
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[50/90] Processing: 1151061 - Semester - II
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[51/90] Processing: 2126361 - Semester - II
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[52/90] Processing: 2126161
+								
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 )(UPDATED ON 17/07/2025) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 )(NCC/NSS/DLLE/SPORTS)(UPDATED ON 28/07/2025) 
+(LOT 1)(UPDATED ON 22/08/2025)
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+(LOT 2)(UPDATED ON 16/09/2025)
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+10/07/2025 - Semester - II
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,352 - INFO - 
+[53/90] Processing: 1151761 - Semester - II
+2026-02-06 10:00:53,352 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[54/90] Processing: 2126261 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[55/90] Processing: 1151161 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[56/90] Processing: 3180161 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[57/90] Processing: 1150161 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[58/90] Processing: 1150261 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[59/90] Processing: 1151261 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[60/90] Processing: 3180661 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,353 - INFO - 
+[61/90] Processing: 2126761 - Semester - II
+2026-02-06 10:00:53,353 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[62/90] Processing: 3180361 - Semester - II
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[63/90] Processing: 2190461 - Semester - II
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[64/90] Processing: 2126861 - Semester - II
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[65/90] Processing: 3180261 - Semester - II
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[66/90] Processing: 1150561 - Semester - II
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[67/90] Processing: 4986461 - Semester - I
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[68/90] Processing: 1194661 - Semester - I
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,354 - INFO - 
+[69/90] Processing: 2220161 - Semester - I
+2026-02-06 10:00:53,354 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[70/90] Processing: 1150661 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[71/90] Processing: 2225161 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[72/90] Processing: 2190461 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[73/90] Processing: 1151161 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[74/90] Processing: 2126561 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[75/90] Processing: 2126461 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[76/90] Processing: 1151061 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[77/90] Processing: 3180161 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,355 - INFO - 
+[78/90] Processing: 1150161 - Semester - I
+2026-02-06 10:00:53,355 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[79/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[80/90] Processing: 1151261 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[81/90] Processing: 2126361 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[82/90] Processing: 3180661 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[83/90] Processing: 2126261 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[84/90] Processing: 2126161 - Unknown
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[85/90] Processing: 1151761 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[86/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:53,356 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,356 - INFO - 
+[87/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:53,357 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,357 - INFO - 
+[88/90] Processing: 3180261 - Semester - I
+2026-02-06 10:00:53,357 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,357 - INFO - 
+[89/90] Processing: 2126861 - Semester - I
+2026-02-06 10:00:53,357 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:53,357 - INFO - 
+[90/90] Processing: 2126761 - Semester - I
+2026-02-06 10:00:53,357 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:56,835 - INFO - Fetching exam list from: https://www.mumresults.in/ugnepresults.html
+2026-02-06 10:00:58,287 - INFO - Found 3 table(s) on page
+2026-02-06 10:00:58,288 - INFO - Processing table 1/3
+2026-02-06 10:00:58,289 - INFO - Processing table 2/3
+2026-02-06 10:00:58,292 - INFO - Processing table 3/3
+2026-02-06 10:00:58,294 - INFO - Found 90 exam records across all tables
+2026-02-06 10:00:58,294 - INFO - 
+[1/90] Processing: 2190461 - Semester - III
+2026-02-06 10:00:58,294 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,294 - INFO - 
+[2/90] Processing: 2190461 - Semester - II
+2026-02-06 10:00:58,294 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,294 - INFO - 
+[3/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:58,295 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,295 - INFO - 
+[4/90] Processing: 4986461 - Semester - I
+2026-02-06 10:00:58,295 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,295 - INFO - 
+[5/90] Processing: 3180161 - Semester - II
+2026-02-06 10:00:58,295 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,295 - INFO - 
+[6/90] Processing: 3180361 - Semester - II
+2026-02-06 10:00:58,295 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,296 - INFO - 
+[7/90] Processing: 3180261 - Semester - III
+2026-02-06 10:00:58,296 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,296 - INFO - 
+[8/90] Processing: 3180361 - Semester - III
+2026-02-06 10:00:58,296 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,296 - INFO - 
+[9/90] Processing: 1194661 - Semester - I
+2026-02-06 10:00:58,296 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,296 - INFO - 
+[10/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:58,297 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,297 - INFO - 
+[11/90] Processing: 1150561 - Semester - II
+2026-02-06 10:00:58,297 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,297 - INFO - 
+[12/90] Processing: 4986461 - Semester - III
+2026-02-06 10:00:58,297 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,297 - INFO - 
+[13/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:58,297 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,297 - INFO - 
+[14/90] Processing: 2126661 - Semester - II
+2026-02-06 10:00:58,297 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[15/90] Processing: 1194661 - Semester - III
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[16/90] Processing: 1150561 - Semester - III
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[17/90] Processing: 2126661 - Semester - III
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[18/90] Processing: 4986461 - Semester - II
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[19/90] Processing: 2225161 - Semester - I
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[20/90] Processing: 1151061 - Semester - I
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[21/90] Processing: 4945161 - Semester - II
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[22/90] Processing: 4945361 - Semester - II
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[23/90] Processing: 1194661 - Semester - II
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[24/90] Processing: 1170361 - Semester - II
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[25/90] Processing: 4945361 - Semester - IV
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[26/90] Processing: 4945161 - Semester - IV
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[27/90] Processing: 3180261 - Semester - I
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[28/90] Processing: 2126561 - Semester - I
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,298 - INFO - 
+[29/90] Processing: 2225161 - Semester - II
+2026-02-06 10:00:58,298 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[30/90] Processing: 2126261 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[31/90] Processing: 1151161 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[32/90] Processing: 2126461 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[33/90] Processing: 1151261 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[34/90] Processing: 2126161 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[35/90] Processing: 3180661 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[36/90] Processing: 2126761 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[37/90] Processing: 3180161 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[38/90] Processing: 1150161 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[39/90] Processing: 2126361 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[40/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[41/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[42/90] Processing: 2190461 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[43/90] Processing: 2126861 - Semester - I
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,299 - INFO - 
+[44/90] Processing: 2126461 - Semester - II
+2026-02-06 10:00:58,299 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[45/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[46/90] Processing: 1150261 - Semester - I
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[47/90] Processing: 1151761 - Semester - I
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[48/90] Processing: 2126561 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[49/90] Processing: 2126661 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[50/90] Processing: 1151061 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[51/90] Processing: 2126361 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[52/90] Processing: 2126161
+								
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 )(UPDATED ON 17/07/2025) 
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 )(NCC/NSS/DLLE/SPORTS)(UPDATED ON 28/07/2025) 
+(LOT 1)(UPDATED ON 22/08/2025)
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+(LOT 2)(UPDATED ON 16/09/2025)
+
+								Bachelor of Commerce ( Semester - II) ( NEP 2020 ) 
+
+10/07/2025 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[53/90] Processing: 1151761 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[54/90] Processing: 2126261 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[55/90] Processing: 1151161 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[56/90] Processing: 3180161 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,300 - INFO - 
+[57/90] Processing: 1150161 - Semester - II
+2026-02-06 10:00:58,300 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[58/90] Processing: 1150261 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[59/90] Processing: 1151261 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[60/90] Processing: 3180661 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[61/90] Processing: 2126761 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[62/90] Processing: 3180361 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[63/90] Processing: 2190461 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[64/90] Processing: 2126861 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[65/90] Processing: 3180261 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[66/90] Processing: 1150561 - Semester - II
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,301 - INFO - 
+[67/90] Processing: 4986461 - Semester - I
+2026-02-06 10:00:58,301 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[68/90] Processing: 1194661 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[69/90] Processing: 2220161 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[70/90] Processing: 1150661 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[71/90] Processing: 2225161 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[72/90] Processing: 2190461 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[73/90] Processing: 1151161 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[74/90] Processing: 2126561 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[75/90] Processing: 2126461 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[76/90] Processing: 1151061 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[77/90] Processing: 3180161 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[78/90] Processing: 1150161 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[79/90] Processing: 3180361 - Semester - I
+2026-02-06 10:00:58,302 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,302 - INFO - 
+[80/90] Processing: 1151261 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[81/90] Processing: 2126361 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[82/90] Processing: 3180661 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[83/90] Processing: 2126261 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[84/90] Processing: 2126161 - Unknown
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[85/90] Processing: 1151761 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[86/90] Processing: 1150561 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[87/90] Processing: 2126661 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[88/90] Processing: 3180261 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[89/90] Processing: 2126861 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)
+2026-02-06 10:00:58,303 - INFO - 
+[90/90] Processing: 2126761 - Semester - I
+2026-02-06 10:00:58,303 - INFO -   Status: Already exists (skipping)

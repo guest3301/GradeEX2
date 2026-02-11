@@ -1,0 +1,16 @@
+# Core dependencies
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+sqlalchemy>=2.0.0
+
+# Data processing (optional - for original extract_grades.py)
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Web framework (optional - for future web interface)
+flask>=3.0.0
+flask-sqlalchemy>=3.1.0

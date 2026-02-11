@@ -1,0 +1,126 @@
+2026-02-11 10:09:06,969 - INFO - ======================================================================
+2026-02-11 10:09:06,969 - INFO - BATCH PROCESSING STARTED
+2026-02-11 10:09:06,969 - INFO - ======================================================================
+2026-02-11 10:09:06,969 - INFO - Downloads directory: downloads
+2026-02-11 10:09:06,969 - INFO - Metadata directory: metadata
+2026-02-11 10:09:06,969 - INFO - Output directory: student_records
+2026-02-11 10:09:06,969 - INFO - ======================================================================
+2026-02-11 10:09:06,970 - INFO - Found 90 PDF files in downloads
+2026-02-11 10:09:06,970 - INFO - 
+[1/90] Processing PDF...
+2026-02-11 10:09:06,970 - INFO - 
+======================================================================
+2026-02-11 10:09:06,970 - INFO - Processing: Bachelor of Management Studies (E.M.E.)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (1).pdf
+2026-02-11 10:09:06,970 - INFO - ======================================================================
+2026-02-11 10:09:06,985 - INFO - Created new program: 2190461 - Bachelor of Management Studies (E.M.E.)
+2026-02-11 10:09:11,200 - INFO - Created new examination: ID=1, Semester - I REGULAR
+2026-02-11 10:09:11,200 - INFO - Processing 7 students...
+2026-02-11 10:09:11,243 - DEBUG -   Student 1: MU0341120240142060 - GAIKWAD SAHIL RAJU RUPALI - FAIL ✓
+2026-02-11 10:09:11,254 - DEBUG -   Student 2: MU0341120240142090 - GOLE SANSKRUTI KAMLESH SHAMA - FAIL ✓
+2026-02-11 10:09:11,265 - DEBUG -   Student 3: MU0341120240142049 - KADU ATHARVA SANDEEP NEHA - FAIL ✓
+2026-02-11 10:09:11,278 - DEBUG -   Student 4: MU0341120240142080 - PANVALKAR PARTH GANESH TANVI - FAIL ✓
+2026-02-11 10:09:11,291 - DEBUG -   Student 5: MU0341120240142068 - PATIL BHOOMI DINESH SAKSHI - FAIL ✓
+2026-02-11 10:09:11,291 - WARNING -   Student 6: Missing ERN or seat number - skipping
+2026-02-11 10:09:11,291 - WARNING -   Student 7: Missing ERN or seat number - skipping
+2026-02-11 10:09:11,292 - INFO - ✓ Successfully processed Bachelor of Management Studies (E.M.E.)_YearSession_2024-2025-DECEMBER-DEC2024_REGULAR_Term_1_Grade_card (1).pdf
+2026-02-11 10:09:11,292 - INFO - 
+[2/90] Processing PDF...
+2026-02-11 10:09:11,292 - INFO - 
+======================================================================
+2026-02-11 10:09:11,292 - INFO - Processing: (1)Bachelor of Science (Hospitality Studies)_Term_2_Grade_card.pdf
+2026-02-11 10:09:11,292 - INFO - ======================================================================
+2026-02-11 10:09:11,298 - INFO - Created new program: 1151161 - Bachelor of Science (Hospitality Studies)
+2026-02-11 10:12:06,955 - INFO - ======================================================================
+2026-02-11 10:12:06,955 - INFO - BATCH PROCESSING STARTED
+2026-02-11 10:12:06,955 - INFO - ======================================================================
+2026-02-11 10:12:06,955 - INFO - Downloads directory: download/
+2026-02-11 10:12:06,955 - INFO - Metadata directory: metadata/
+2026-02-11 10:12:06,955 - INFO - Output directory: student_records/
+2026-02-11 10:12:06,955 - INFO - ======================================================================
+2026-02-11 10:12:06,955 - INFO - Found 1 PDF files in download/
+2026-02-11 10:12:06,955 - INFO - 
+[1/1] Processing PDF...
+2026-02-11 10:12:06,955 - INFO - 
+======================================================================
+2026-02-11 10:12:06,955 - INFO - Processing: 1150561 Bachelor of Science(Maritime Hospitality Studies) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-11 10:12:06,956 - INFO - ======================================================================
+2026-02-11 10:12:06,972 - INFO - Created new program: 1150561 - Bachelor of Science(Maritime Hospitality Studies)
+2026-02-11 10:12:11,175 - INFO - Created new examination: ID=2, Semester - I REGULAR
+2026-02-11 10:12:11,175 - INFO - Processing 65 students...
+2026-02-11 10:12:11,185 - DEBUG -   Student 1: MU0341120240164729 - ABIN S A - PASS ✓
+2026-02-11 10:12:11,193 - DEBUG -   Student 2: MU0341120240164749 - KOLI HITEN BHARAT - PASS ✓
+2026-02-11 10:12:11,200 - DEBUG -   Student 3: MU0341120240164746 - MHATRE BHAVIK VIJAY - PASS ✓
+2026-02-11 10:12:11,206 - DEBUG -   Student 4: MU0341120240161305 - PAL ANKUSH VINOD - FAIL ✓
+2026-02-11 10:12:11,212 - DEBUG -   Student 5: MU0341120240161302 - PATIL MOHIT RAMCHANDRA - PASS ✓
+2026-02-11 10:12:11,219 - DEBUG -   Student 6: MU0341120240164759 - SHINDE PARTH SOPAN - FAIL ✓
+2026-02-11 10:12:11,232 - DEBUG -   Student 7: MU0341120240161298 - PATIL SHRISHANT SHRIKANT - PASS ✓
+2026-02-11 10:12:11,239 - DEBUG -   Student 8: MU0341120240161300 - PATIL NIRAJ SANTOSH - PASS ✓
+2026-02-11 10:12:11,246 - DEBUG -   Student 9: MU0341120250167824 - AADESH BAGIYAL - PASS ✓
+2026-02-11 10:12:11,253 - DEBUG -   Student 10: MU0341120250079829 - ABDUL GAFFUR SHAIKH - PASS ✓
+2026-02-11 10:12:11,260 - DEBUG -   Student 11: MU0341120250079816 - ABHISHEK RAUTELA - PASS ✓
+2026-02-11 10:12:11,267 - DEBUG -   Student 12: MU0341120250079804 - ADITYA DINKAR WAGH - PASS ✓
+2026-02-11 10:12:11,273 - DEBUG -   Student 13: MU0341120250167823 - AMIT GAIROLA - PASS ✓
+2026-02-11 10:12:11,279 - DEBUG -   Student 14: MU0341120250079795 - AAMAN YUSUF ARAB - PASS ✓
+2026-02-11 10:12:11,286 - DEBUG -   Student 15: MU0341120250079824 - AYUSH CHAUHAN - PASS ✓
+2026-02-11 10:12:11,291 - DEBUG -   Student 16: MU0341120250079828 - AYUSH PANWAR - PASS ✓
+2026-02-11 10:12:11,297 - DEBUG -   Student 17: MU0341120250079803 - BHUMI PRASHANT PRABHU - PASS ✓
+2026-02-11 10:12:11,297 - WARNING -   Student 18: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,297 - WARNING -   Student 19: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,298 - WARNING -   Student 20: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,298 - WARNING -   Student 21: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,303 - DEBUG -   Student 22: MU0341120250079814 - HARSHAL HANMANT WAYCHAL - PASS ✓
+2026-02-11 10:12:11,310 - DEBUG -   Student 23: MU0341120250079797 - HITESH VIJAY PETHE - PASS ✓
+2026-02-11 10:12:11,310 - WARNING -   Student 24: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,310 - WARNING -   Student 25: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,316 - DEBUG -   Student 26: MU0341120250079810 - JAYDEEP SHARAD AHIRE - FAIL ✓
+2026-02-11 10:12:11,330 - DEBUG -   Student 27: MU0341120250079805 - JAYESH JAGDISH PATIL - PASS ✓
+2026-02-11 10:12:11,330 - WARNING -   Student 28: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,330 - WARNING -   Student 29: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,338 - DEBUG -   Student 30: MU0341120250079813 - JOY RITESH BANSODE - FAIL ✓
+2026-02-11 10:12:11,350 - DEBUG -   Student 31: MU0341120250079830 - KARAN SANDIP JADHAV - PASS ✓
+2026-02-11 10:12:11,361 - DEBUG -   Student 32: MU0341120250079822 - KAVI HEMANT KOLI - PASS ✓
+2026-02-11 10:12:11,369 - DEBUG -   Student 33: MU0341120250079806 - KOMAL RAMESHWAR SHINDE - PASS ✓
+2026-02-11 10:12:11,369 - WARNING -   Student 34: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,369 - WARNING -   Student 35: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,369 - WARNING -   Student 36: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,369 - WARNING -   Student 37: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,378 - DEBUG -   Student 38: MU0341120250079786 - NISHANK JITENDRAKUMAR - FAIL ✓
+2026-02-11 10:12:11,386 - DEBUG -   Student 39: MU0341120250079787 - OM DEEPAK GUDEKAR - FAIL ✓
+2026-02-11 10:12:11,394 - DEBUG -   Student 40: MU0341120250079788 - OM NAVANATH BORHADE - FAIL ✓
+2026-02-11 10:12:11,400 - DEBUG -   Student 41: MU0341120250079826 - OM VIRENDRA THAKUR - PASS ✓
+2026-02-11 10:12:11,408 - DEBUG -   Student 42: MU0341120250079798 - PARTH NILESH GURAV - FAIL ✓
+2026-02-11 10:12:11,414 - DEBUG -   Student 43: MU0341120250079796 - PARTH VIVEK PARVADI - PASS ✓
+2026-02-11 10:12:11,420 - DEBUG -   Student 44: MU0341120250079817 - PRATHAMESH NARESH GAIKWAD - PASS ✓
+2026-02-11 10:12:11,428 - DEBUG -   Student 45: MU0341120250079812 - PRATHAMESH PRABHAKAR KOLI - PASS ✓
+2026-02-11 10:12:11,428 - WARNING -   Student 46: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,428 - WARNING -   Student 47: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,428 - WARNING -   Student 48: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,428 - WARNING -   Student 49: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,437 - DEBUG -   Student 50: MU0341120250079791 - SHUBHAM VIJAY PATIL - PASS ✓
+2026-02-11 10:12:11,444 - DEBUG -   Student 51: MU0341120250079793 - SMIT SUHAS PATIL - PASS ✓
+2026-02-11 10:12:11,454 - DEBUG -   Student 52: MU0341120250079792 - SMITA SANTOSH MANDHARE - FAIL ✓
+2026-02-11 10:12:11,461 - DEBUG -   Student 53: MU0341120250079825 - SOHAM SUNIL MOHITE - PASS ✓
+2026-02-11 10:12:11,468 - DEBUG -   Student 54: MU0341120250079827 - SUJAL RAMCHANDRA DABHEKAR - PASS ✓
+2026-02-11 10:12:11,476 - DEBUG -   Student 55: MU0341120250079794 - SWAPNIL YASHWANT GHARAT - PASS ✓
+2026-02-11 10:12:11,476 - WARNING -   Student 56: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,476 - WARNING -   Student 57: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,483 - DEBUG -   Student 58: MU0341120250079823 - VAISHNAV VINODKUMAR NAIR - PASS ✓
+2026-02-11 10:12:11,492 - DEBUG -   Student 59: MU0341120250079832 - VAISHNAVI GUPTA - FAIL ✓
+2026-02-11 10:12:11,500 - DEBUG -   Student 60: MU0341120250079833 - VED PRASHANT NAGVEKAR - FAIL ✓
+2026-02-11 10:12:11,507 - DEBUG -   Student 61: MU0341120250079815 - VISHAL V - PASS ✓
+2026-02-11 10:12:11,507 - WARNING -   Student 62: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,507 - WARNING -   Student 63: Missing ERN or seat number - skipping
+2026-02-11 10:12:11,514 - DEBUG -   Student 64: MU0341120250167826 - SHAIKH ARBAZ ALAM MANZAR ALAM - PASS ✓
+2026-02-11 10:12:11,523 - DEBUG -   Student 65: MU0341120250167825 - SINGH AMAN RAMKISHOR - PASS ✓
+2026-02-11 10:12:11,523 - INFO - ✓ Successfully processed 1150561 Bachelor of Science(Maritime Hospitality Studies) ( Semester - I) ( NEP 2020 ).pdf
+2026-02-11 10:12:11,523 - INFO - 
+======================================================================
+2026-02-11 10:12:11,523 - INFO - BATCH PROCESSING COMPLETED
+2026-02-11 10:12:11,524 - INFO - ======================================================================
+2026-02-11 10:12:11,524 - INFO - PDFs processed successfully: 1
+2026-02-11 10:12:11,524 - INFO - PDFs failed: 0
+2026-02-11 10:12:11,524 - INFO - Students extracted: 65
+2026-02-11 10:12:11,524 - INFO - Student PDFs created: 45
+2026-02-11 10:12:11,524 - INFO - Database records created: 45
+2026-02-11 10:12:11,524 - INFO - Students failed: 20
+2026-02-11 10:12:11,524 - INFO - ======================================================================
