@@ -3,7 +3,7 @@
 Simplified Student Record Extractor
 =============================================================================
 Lightweight extraction of student basic info (no detailed grades).
-Extracts: ERN, name, seat number, status, result for PDF cropping.
+Extracts: ERN, full_name, seat number, status, result for PDF cropping.
 =============================================================================
 """
 
@@ -125,14 +125,13 @@ class SimpleStudentExtractor:
             student_index: Student position on page (0-indexed)
             
         Returns:
-            Dict with: ern, name, first_name, seat_no, status, gender, result
+            Dict with: ern, full_name, seat_no, status, gender, result
         """
         lines = [l.strip() for l in block_text.split('\n') if l.strip()]
         
         student = {
             'ern': None,
-            'name': None,
-            'first_name': None,
+            'full_name': None,
             'seat_no': None,
             'status': None,
             'gender': None,
@@ -152,15 +151,10 @@ class SimpleStudentExtractor:
             student['seat_no'] = seat_match.group(1)
             # Extract name (everything after seat number until status/gender keyword)
             name_part = seat_match.group(2).strip()
-            student['name'] = ' '.join(name_part.split())  # Normalize whitespace
-            
-            # Extract first name
-            name_parts = student['name'].split()
-            if name_parts:
-                student['first_name'] = name_parts[0]
+            student['full_name'] = ' '.join(name_part.split())  # Normalize whitespace
         
         # Extract ERN
-        ern_match = re.search(r'\(MU(\d+)\)', full_text)
+        ern_match = re.search(r'\(MU(\d+)\)', full_text) or re.search(r'\(MU(\d+)', full_text)
         if ern_match:
             student['ern'] = 'MU' + ern_match.group(1)
         
@@ -175,11 +169,36 @@ class SimpleStudentExtractor:
             student['gender'] = gender_match.group(1)[0]  # M or F
         
         # Extract college code and name
-        college_match = re.search(r'(MU-\d+):\s*(.+?)(?:\s+E1|\s+MAR|\s*$)', full_text)
+        college_match = re.search(r'\) MU-(\d+): (.+?) E1', full_text, re.DOTALL)
         if college_match:
-            student['college_code'] = college_match.group(1)
-            student['college_name'] = college_match.group(2).strip()
-        
+            student['college_code'] = 'MU-' + college_match.group(1)
+    
+            # Remove everything from first digit onwards OR "MAR" onwards (grade markers)
+            college_name_raw = college_match.group(2)
+            college_name_clean = re.sub(r'\s*(?:\d.*|MAR.*)$', '', college_name_raw)
+            # Remove all symbols except '&' and ',' and all digits from anywhere
+            college_name_clean = re.sub(r'[^a-zA-Z\s&,]', '', college_name_clean)
+            student['college_name'] = ' '.join(college_name_clean.split()).strip()
+        else:
+            # Fallback: Try matching without leading ") "
+            college_match = re.search(r'MU-(\d+): (.+?) E1', full_text, re.DOTALL)
+            if college_match:
+                student['college_code'] = 'MU-' + college_match.group(1)
+                college_name_raw = college_match.group(2)
+                college_name_clean = re.sub(r'\s*(?:\d.*|MAR.*)$', '', college_name_raw)
+                # Remove all symbols except '&' and ',' and all digits from anywhere
+                college_name_clean = re.sub(r'[^a-zA-Z\s&,]', '', college_name_clean)
+                student['college_name'] = ' '.join(college_name_clean.split()).strip()
+            else:
+                # Debug: Log when college match fails
+                self.logger.warning(
+                    f"College match FAILED for student on page {page_number}, index {student_index}\n"
+                    f"ERN: {student.get('ern')}\n"
+                    f"Seat: {student.get('seat_no')}\n"
+                    f"Full text excerpt (200 chars around ERN):\n"
+                    f"...{full_text[max(0, full_text.find(student.get('ern', 'X'))-100):full_text.find(student.get('ern', 'X'))+100]}..."
+                )
+
         # Extract result (PASS/FAIL) - look for keywords in full text
         if 'PASS' in full_text or 'PAS' in full_text:
             student['result'] = 'PASS'
@@ -187,10 +206,10 @@ class SimpleStudentExtractor:
             student['result'] = 'FAIL'
         
         # Validation - require essential fields
-        if not student['seat_no'] or not student['name'] or not student['result']:
+        if not student['seat_no'] or not student['full_name'] or not student['result']:
             self.logger.warning(
                 f"Incomplete student record on page {page_number}, index {student_index}: "
-                f"seat={student['seat_no']}, name={student['name']}, result={student['result']}"
+                f"seat={student['seat_no']}, full_name={student['full_name']}, result={student['result']}"
             )
             return None
         
@@ -239,7 +258,7 @@ class SimpleStudentExtractor:
                         student = self.extract_student_basic_info(block, page_num, student_index)
                         if student:
                             all_students.append(student)
-                            self.logger.debug(f"  Student {student_index + 1}: {student['seat_no']} - {student['name']}")
+                            self.logger.debug(f"  Student {student_index + 1}: {student['seat_no']} - {student['full_name']}")
                 
                 self.logger.info(f"Total students extracted: {len(all_students)}")
         

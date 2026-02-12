@@ -69,8 +69,7 @@ class Student(Base):
     __tablename__ = 'students'
     
     ern = Column(String(20), primary_key=True)  # MU enrollment number (e.g., MU1234567)
-    name = Column(String(200), nullable=False)  # Full name
-    first_name = Column(String(100))  # First name for filename generation
+    full_name = Column(String(200), nullable=False)  # Full name
     gender = Column(String(10))  # M, F
     created_at = Column(DateTime, default=datetime.now)
     updated_at = Column(DateTime, default=datetime.now, onupdate=datetime.now)
@@ -79,7 +78,7 @@ class Student(Base):
     exam_records = relationship('StudentExamRecord', back_populates='student')
     
     def __repr__(self):
-        return f"<Student(ern={self.ern}, name={self.name})>"
+        return f"<Student(ern={self.ern}, full_name={self.full_name})>"
 
 
 class StudentExamRecord(Base):

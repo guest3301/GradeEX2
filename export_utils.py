@@ -45,8 +45,7 @@ def export_students_json(db_session: Session, output_file: str = 'students.json'
     for record, student, exam in records:
         export_data.append({
             'ern': student.ern,
-            'first_name': student.first_name,
-            'full_name': student.name,
+            'full_name': student.full_name,
             'gender': student.gender,
             'seat_no': record.seat_no,
             'college_code': record.college_code,
@@ -136,7 +135,7 @@ def get_failed_students(db_session: Session) -> List[Dict[str, Any]]:
     for record, student, exam in records:
         result.append({
             'ern': student.ern,
-            'name': student.name,
+            'full_name': student.full_name,
             'seat_no': record.seat_no,
             'exam_title': exam.exam_title,
             'semester': exam.semester,

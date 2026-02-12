@@ -6,13 +6,13 @@ Batch Processor for Mumbai University Grade Records
 Orchestrates the complete workflow:
 1. Scans downloads/ for PDFs and metadata/
 2. Extracts student info from each PDF
-3. Crops individual student records using fixed coordinates
+3. Crops individual student records using DYNAMIC line detection
 4. Stores records in database with PDF file paths
 5. Generates students.json for development
 
 Author: GitHub Copilot
-Date: 2026-02-09
-Version: 1.0
+Date: 2026-02-12
+Version: 2.0 - Dynamic cropping
 =============================================================================
 """
 
@@ -69,21 +69,13 @@ class BatchGradeProcessor:
     def _setup_logging(self):
         """Configure logging"""
         log_file = os.path.join(self.output_dir, 'logs', 'batch_process.log')
-        
-        # Create formatter
         formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-        
-        # File handler
         file_handler = logging.FileHandler(log_file)
         file_handler.setLevel(logging.DEBUG)
         file_handler.setFormatter(formatter)
-        
-        # Console handler
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.INFO)
         console_handler.setFormatter(formatter)
-        
-        # Setup logger
         self.logger = logging.getLogger('BatchProcessor')
         self.logger.setLevel(logging.DEBUG)
         self.logger.addHandler(file_handler)
@@ -120,7 +112,6 @@ class BatchGradeProcessor:
         Returns:
             Metadata dictionary or None if not found
         """
-        # Generate metadata filename (same base name with .json extension)
         pdf_basename = os.path.basename(pdf_path)
         json_basename = pdf_basename.replace('.pdf', '.json')
         json_path = os.path.join(self.metadata_dir, json_basename)
@@ -200,37 +191,41 @@ class BatchGradeProcessor:
         
         return exam
     
-    def generate_student_filename(self, student: Dict, exam_id: int, 
+    def generate_student_filename(self, student: Dict, semester: str, 
                                   existing_files: set) -> str:
         """
         Generate unique filename for student PDF.
         
-        Format: ERN_FirstName_ExamID[_counter].pdf
+        Format: ERN_SEATNO_semester_status_collegecode.pdf
         
         Args:
             student: Student data dictionary
-            exam_id: Examination ID
+            semester: Semester identifier from metadata
             existing_files: Set of already used filenames
             
         Returns:
             Unique filename
         """
         ern = student.get('ern', 'UNKNOWN')
-        first_name = student.get('first_name', 'UNKNOWN')
+        seat_no = student.get('seat_no', 'UNKNOWN')
+        status = student.get('status', 'UNKNOWN')
+        college_code = student.get('college_code', 'UNKNOWN')
         
-        # Clean filename components
-        ern = ern.replace('MU', 'MU')  # Keep MU prefix
-        first_name = ''.join(c for c in first_name if c.isalnum())
+        # Clean filename components (remove special chars, keep alphanumeric and hyphens)
+        ern_clean = ern.replace('MU', 'MU')  # Keep MU prefix
+        seat_clean = ''.join(c for c in seat_no if c.isalnum())
+        semester_clean = ''.join(c for c in semester if c.isalnum() or c == '-')
+        status_clean = ''.join(c for c in status if c.isalnum())
+        college_clean = college_code.replace('MU-', 'MU')  # Keep format
         
-        # Base filename
-        base_filename = f"{ern}_{first_name}_{exam_id}.pdf"
+        base_filename = f"{ern_clean}_{seat_clean}_{semester_clean}_{status_clean}_{college_clean}.pdf"
         
         # If already exists, add counter
         if base_filename in existing_files:
             counter = 2
-            while f"{ern}_{first_name}_{exam_id}_{counter}.pdf" in existing_files:
+            while f"{ern_clean}_{seat_clean}_{semester_clean}_{status_clean}_{college_clean}_{counter}.pdf" in existing_files:
                 counter += 1
-            base_filename = f"{ern}_{first_name}_{exam_id}_{counter}.pdf"
+            base_filename = f"{ern_clean}_{seat_clean}_{semester_clean}_{status_clean}_{college_clean}_{counter}.pdf"
         
         existing_files.add(base_filename)
         return base_filename
@@ -251,13 +246,11 @@ class BatchGradeProcessor:
         self.logger.info(f"{'='*70}")
         
         try:
-            # Load metadata
             metadata = self.load_metadata(pdf_path)
             if not metadata:
                 self.logger.error(f"Skipping {pdf_basename} - no metadata")
                 return False
-            
-            # Ensure program exists
+
             program = self.get_or_create_program(
                 metadata['program_code'],
                 metadata['program_name']
@@ -285,27 +278,33 @@ class BatchGradeProcessor:
                 try:
                     # Validate required fields
                     if not student_data.get('ern') or not student_data.get('seat_no'):
+                        self.logger.warning(f"{student_data}")
                         self.logger.warning(f"  Student {idx}: Missing ERN or seat number - skipping")
                         self.stats['students_failed'] += 1
                         continue
+                    if not student_data.get('college_code') or not student_data.get('college_name'):
+                        self.logger.warning(f"{student_data}")
+                        self.logger.warning(f"  Student {idx}: Missing college code or college name - skipping")
+                        self.stats['students_failed'] += 1
+                        continue
+                    
                     
                     # Generate filename
                     student_filename = self.generate_student_filename(
-                        student_data, exam.id, existing_files
+                        student_data, metadata.get('semester', 'Unknown'), existing_files
                     )
                     student_pdf_path = os.path.join(self.output_dir, student_filename)
                     
-                    # Crop student record
+                    # Crop student record using dynamic line detection
                     page_num = student_data['page_number']
                     
-                    # Determine student position on page
-                    # Count how many students we've seen on this page so far
+                    # Determine student position on this page (0-indexed)
                     student_index = sum(
                         1 for s in students_in_pdf[:idx-1] 
                         if s['page_number'] == page_num
                     )
                     
-                    # Crop the PDF
+                    # Crop the PDF (uses dynamic detection, ignores total_students_on_page)
                     success = PdfProcessor.crop_single_student(
                         pdf_path, page_num, student_index, student_pdf_path
                     )
@@ -327,8 +326,7 @@ class BatchGradeProcessor:
                     if not student:
                         student = Student(
                             ern=student_data['ern'],
-                            name=student_data.get('name', ''),
-                            first_name=student_data.get('first_name', ''),
+                            full_name=student_data.get('full_name', ''),
                             gender=student_data.get('gender')
                         )
                         self.db_session.add(student)
@@ -339,7 +337,7 @@ class BatchGradeProcessor:
                         exam_id=exam.id,
                         seat_no=student_data['seat_no'],
                         college_code=student_data.get('college_code'),
-                        college_name=student_data.get('college'),
+                        college_name=student_data.get('college_name'),
                         status=student_data.get('status'),
                         result=student_data.get('result'),
                         page_number=student_data['page_number'],
@@ -353,7 +351,7 @@ class BatchGradeProcessor:
                     
                     self.logger.debug(
                         f"  Student {idx}: {student_data['ern']} - "
-                        f"{student_data['name']} - {student_data['result']} ✓"
+                        f"{student_data['full_name']} - {student_data['result']} ✓"
                     )
                     
                 except IntegrityError as e:
